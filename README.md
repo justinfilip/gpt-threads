@@ -6,11 +6,11 @@ open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads int
 
 1) Install Ubuntu Server 22.04 on any consumer pc with 64GB+ RAM
 
-- Direct Download:
+            - Direct Download:
 
             https://releases.ubuntu.com/23.10/ubuntu-23.10-live-server-amd64.iso
     
-- Torrent:
+            - Torrent:
 
             https://releases.ubuntu.com/22.04/ubuntu-22.04.3-live-server-amd64.iso.torrent
 
