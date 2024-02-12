@@ -14,7 +14,7 @@ open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads int
 
       https://releases.ubuntu.com/22.04/ubuntu-22.04.3-live-server-amd64.iso.torrent
 
-2) During setup, choose "user" as the user / username, all other options default
+2) During setup, choose "user" as the user / username, any hostname and any password, all other options default
 
 3) Run the following commands:
 
