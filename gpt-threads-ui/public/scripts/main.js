@@ -868,6 +868,8 @@ async function validateSendPrompt(send_button, prompt) {
 
 send_button.addEventListener('pointerdown', async function(e) {
 
+    var prompt = text_input.innerText;
+    
     if (prompt.length < 15 || text_input.innerHTML == '<p id="placeholder">What can I help with?</p>') {
         send_button.className = "text-input-send-button-rejected";
         setTimeout(function (e) {
@@ -894,7 +896,7 @@ send_button.addEventListener('pointerdown', async function(e) {
         if (text_input.parentElement.className.includes('-reply')) {
             reply_active = 1;
         }
-        var prompt = text_input.innerText;
+        
         validateSendPrompt(send_button, prompt);
     }
 

@@ -36,6 +36,6 @@ sudo ufw allow 9090
 # Allow API access
 sudo ufw allow 80
 # Allow remote VSCode
-sudo ufw allow 22
+# sudo ufw allow 22
 
 sudo reboot
