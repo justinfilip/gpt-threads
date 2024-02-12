@@ -1,0 +1,10 @@
+[Unit]
+After=network.service
+
+[Service]
+ExecStart=/home/user/gpt-threads/gpt-threads-compute/auto_monitor.sh
+StandardOutput=null
+StandardError=null
+
+[Install]
+WantedBy=default.target

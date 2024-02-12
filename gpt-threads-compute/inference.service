@@ -1,0 +1,10 @@
+[Unit]
+After=network.service
+
+[Service]
+ExecStart=/home/user/gpt-threads/gpt-threads-compute/start_service.sh
+StandardOutput=null
+StandardError=null
+
+[Install]
+WantedBy=default.target

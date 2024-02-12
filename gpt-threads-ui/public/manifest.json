@@ -1,0 +1,24 @@
+{
+    "name": "gpt-threads",
+    "short_name": "gpt-threads",
+    "description": "open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/media/gptt_72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/media/gptt_96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/media/gptt_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
