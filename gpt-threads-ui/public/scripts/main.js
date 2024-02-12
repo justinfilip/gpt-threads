@@ -1603,9 +1603,9 @@ setTimeout(function() {
 
             current_delete_button.parentNode.replaceChild(replacement_element, current_delete_button);
             
-            if (history_elements[j].className != "history-element-container-closed") {
-                history_elements[j].className = "history-element-container-closed"
-            }
+            // if (history_elements[j].className != "history-element-container-closed") {
+            //     history_elements[j].className = "history-element-container-closed"
+            // }
 
             // add event listener to container to open it when clicked
             history_elements[j].addEventListener('click', function(e) {
