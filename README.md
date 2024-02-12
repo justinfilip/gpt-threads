@@ -27,9 +27,9 @@ open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads int
 
 - Enter your password and the automated server setup script will run.
 
-Depending on your CPU and internet bandwidth, setup time may vary from a few minutes to a few hours.
-
-The machine will reboot when setup is complete.
+  - Depending on your CPU and internet bandwidth, setup time may vary from a few minutes to a few hours.
+  
+  - The machine will reboot when setup is complete.
 
 - Navigate to http://www.gpt-threads.local in your browser to access the application.
 
