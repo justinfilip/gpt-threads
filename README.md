@@ -4,10 +4,12 @@
 
 
 ### Desktop Screenshot
+
 <img src="media/desktop.png">
 
 
 ### Mobile PWA Screenshot
+
 <img src="media/mobile_3.jpeg">
 
 
@@ -46,11 +48,16 @@
 
 
 ## Hit share in mobile browser, install PWA
+
 <img src="media/mobile_5.jpeg">
 
 
 ## More mobile screenshots
+
 <img src="media/mobile_1.jpeg">
+
 <img src="media/mobile_2.jpeg">
+
 <img src="media/mobile_3.jpeg">
+
 <img src="media/mobile_4.jpeg">
