@@ -1,6 +1,7 @@
 # gpt-threads
 
-<img style="display: inline-block; width: 100px;" src="media/logo.png"><div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
+<div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
+<img style="display: inline-block; width: 100px;" src="media/logo.png">
 </br></br>
 
 ### Desktop Screenshot
