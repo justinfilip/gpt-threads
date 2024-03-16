@@ -1,17 +1,17 @@
 # gpt-threads
 
 <img style="display: inline-block; width: 100px;" src="media/logo.png"><div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
-
+</br></br>
 
 ### Desktop Screenshot
 
 <img src="media/desktop.png">
-
+</br></br>
 
 ### Mobile PWA Screenshot
 
 <img src="media/mobile_3.jpeg">
-
+</br></br>
 
 ## Install
 
@@ -45,15 +45,15 @@
 6) Tap the share button on the webpage to "Add to Home Screen", this will install the PWA and make it available as an app icon on your iOS/Android device
 
     - To access the app from any network, install a VPN on the network the server is running on and connect your mobile devices to it. Use either a physical VPN device or in some cases, there is one available in the router for your home network. The server must be connected via ethernet to the network, making a physical VPN device / router a requirement.
-
+</br></br>
 
 ## Hit share in mobile browser, install PWA
-
+</br></br>
 <img src="media/mobile_5.jpeg">
-
+</br></br>
 
 ## More mobile screenshots
-
+</br></br>
 <img src="media/mobile_1.jpeg">
 </br></br>
 <img src="media/mobile_2.jpeg">
