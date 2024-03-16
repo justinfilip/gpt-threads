@@ -1,7 +1,26 @@
 # gpt-threads
 
 <div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
+
+
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#install">Installation Steps</a>
+
+<p style="display: inline-block; margin-left: 5px;"> | </p>
+
+<a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#desktop-screenshot">Desktop Screenshot</a>
+
+<p style="display: inline-block; margin-left: 5px;"> | </p>
+
+<a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#mobile-pwa-screenshot">Mobile PWA Screenshot</a>
+
+<p style="display: inline-block; margin-left: 5px;"> | </p>
+
+<a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#hit-share-in-mobile-browser-install-pwa">Install Mobile PWA</a>
+
+<p style="display: inline-block; margin-left: 5px;"> | </p>
+
+<a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#more-mobile-screenshots">Additional Mobile Screenshots</a>
+
 </br></br>
 <img style="display: inline-block; width: 100px;" src="media/logo.png">
 </br></br>
