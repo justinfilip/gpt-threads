@@ -19,16 +19,6 @@
 
 </br></br>
 
-### Desktop Screenshot
-
-<img src="media/desktop.png">
-</br></br>
-
-### Mobile PWA Screenshot
-
-<img src="media/mobile_3.jpeg">
-</br></br>
-
 ## Install
 
 1) Install Ubuntu Server 22.04 on any consumer pc with 64GB+ RAM
@@ -61,6 +51,16 @@
 6) Tap the share button on the webpage to "Add to Home Screen", this will install the PWA and make it available as an app icon on your iOS/Android device
 
     - To access the app from any network, install a VPN on the network the server is running on and connect your mobile devices to it. Use either a physical VPN device or in some cases, there is one available in the router for your home network. The server must be connected via ethernet to the network, making a physical VPN device / router a requirement.
+</br></br>
+
+### Desktop Screenshot
+
+<img src="media/desktop.png">
+</br></br>
+
+### Mobile PWA Screenshot
+
+<img src="media/mobile_3.jpeg">
 </br></br>
 
 ## Hit share in mobile browser, install PWA
