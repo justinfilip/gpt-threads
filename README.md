@@ -55,9 +55,9 @@
 ## More mobile screenshots
 
 <img src="media/mobile_1.jpeg">
-
+</br></br>
 <img src="media/mobile_2.jpeg">
-
+</br></br>
 <img src="media/mobile_3.jpeg">
-
+</br></br>
 <img src="media/mobile_4.jpeg">
