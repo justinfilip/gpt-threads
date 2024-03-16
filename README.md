@@ -2,7 +2,9 @@
 
 <div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
 
+</br></br>
 
+### Readme Navigation
 <a href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#install">Installation Steps</a>
 
 <a href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#desktop-screenshot">Desktop Screenshot</a>
