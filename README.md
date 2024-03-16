@@ -1,6 +1,13 @@
 # gpt-threads
+<img src="media/logo.jpg">
 
 open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable
+
+### Desktop
+<img src="media/desktop.png">
+
+### Mobile PWA
+<img src="media/mobile_3.jpeg">
 
 ## Install
 
