@@ -2,10 +2,10 @@
 
 <img style="display: inline-block; width: 100px;" src="media/logo.png"><div style="display: inline-block; vertical-align: top;">open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable</div>
 
-### Desktop
+### Desktop Screenshot
 <img src="media/desktop.png">
 
-### Mobile PWA
+### Mobile PWA Screenshot
 <img src="media/mobile_3.jpeg">
 
 ## Install
