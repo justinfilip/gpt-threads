@@ -1,5 +1,7 @@
 # gpt-threads
-<img src="media/logo.png">
+<center>
+    <img style="width: 150px;" src="media/logo.png">
+</center>
 
 open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable
 
@@ -42,11 +44,11 @@ open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads int
 
     - To access the app from any network, install a VPN on the network the server is running on and connect your mobile devices to it. Use either a physical VPN device or in some cases, there is one available in the router for your home network. The server must be connected via ethernet to the network, making a physical VPN device / router a requirement.
 
-### More mobile screenshots
-<img style="width: 100px;" src="media/mobile_1.jpeg">
+## Hit share in mobile browser, install PWA
+<img src="media/mobile_5.jpeg">
+
+## More mobile screenshots
+<img src="media/mobile_1.jpeg">
 <img src="media/mobile_2.jpeg">
 <img src="media/mobile_3.jpeg">
 <img src="media/mobile_4.jpeg">
-
-### Hit share in browser, install PWA
-<img src="media/mobile_5.jpeg">
