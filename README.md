@@ -64,7 +64,7 @@
 </br></br>
 
 ## Hit share in mobile browser, install PWA
-</br></br>
+
 <img src="media/mobile_5.jpeg">
 </br></br>
 
