@@ -1,4 +1,4 @@
-# gpt-threads <img style="display: inline-block; width: 150px;" src="media/logo.png">
+<img style="display: inline-block; width: 50px;" src="media/logo.png"> # gpt-threads
 
 open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads interface | multi-user | private | offline capable
 
