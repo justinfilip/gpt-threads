@@ -41,3 +41,12 @@ open-source AI app | running mixtral 8x7B / llama.cpp | single-layer threads int
 6) Tap the share button on the webpage to "Add to Home Screen", this will install the PWA and make it available as an app icon on your iOS/Android device
 
     - To access the app from any network, install a VPN on the network the server is running on and connect your mobile devices to it. Use either a physical VPN device or in some cases, there is one available in the router for your home network. The server must be connected via ethernet to the network, making a physical VPN device / router a requirement.
+
+### More mobile screenshots
+<img src="media/mobile_1.jpeg">
+<img src="media/mobile_2.jpeg">
+<img src="media/mobile_3.jpeg">
+<img src="media/mobile_4.jpeg">
+
+### Hit share in browser, install PWA
+<img src="media/mobile_5.jpeg">
