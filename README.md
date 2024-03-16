@@ -5,19 +5,19 @@
 
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#install">Installation Steps</a>
 
-<p style="display: inline-block; margin-left: 5px;"> | </p>
+<div style="display: inline-block; margin-left: 5px;"> | </div>
 
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#desktop-screenshot">Desktop Screenshot</a>
 
-<p style="display: inline-block; margin-left: 5px;"> | </p>
+<div style="display: inline-block; margin-left: 5px;"> | </div>
 
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#mobile-pwa-screenshot">Mobile PWA Screenshot</a>
 
-<p style="display: inline-block; margin-left: 5px;"> | </p>
+<div style="display: inline-block; margin-left: 5px;"> | </div>
 
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#hit-share-in-mobile-browser-install-pwa">Install Mobile PWA</a>
 
-<p style="display: inline-block; margin-left: 5px;"> | </p>
+<div style="display: inline-block; margin-left: 5px;"> | </div>
 
 <a style="display: inline-block;" href="https://github.com/justinfilip/gpt-threads?tab=readme-ov-file#more-mobile-screenshots">Additional Mobile Screenshots</a>
 
